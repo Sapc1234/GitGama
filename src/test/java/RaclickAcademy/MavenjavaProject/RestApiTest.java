@@ -24,5 +24,14 @@ public class RestApiTest
 
 	{
 		System.out.println("PostJira");
+		System.out.println("PostJira");
+	}
+	
+	@Test
+	public void deleteTwitter456()
+
+	{
+		System.out.println("PostJira");
+		System.out.println("PostJira");
 	}
 }
